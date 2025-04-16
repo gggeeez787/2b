@@ -11,6 +11,6 @@ omelhorprogramadordaescola
     <h1>O MEHLOR WEBSITE DA ESCOLA</h1>
     <p>Esse site é sobre um tanque chamado Leopard2A7V, nínguem liga pra isso provavelmente, o papo mesmo é a estrutura boa do site.</p>
     <a href="https://pt.wikipedia.org/wiki/Leopard_2" target="_blank" >Clique aqui para saber mais de onde peguei as informações disso tudo.</a>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FLeopard_2&psig=AOvVaw1eYLDqFVWnECitY3B7qKiH&ust=1744893764027000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCgmvrJ3IwDFQAAAAAdAAAAABAE">
+    <img src="https://www.super-hobby.co.uk/zdjecia/5/2/1/60032_rd.jpg">
 </body>
 </html>
